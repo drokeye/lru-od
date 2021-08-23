@@ -1,5 +1,5 @@
 """
-lru.py - LRU Cache implementation in python using ordered-dict
+lru-od - LRU Cache implementation in python using ordered-dict
 """
 
 import typing as t

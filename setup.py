@@ -16,9 +16,9 @@ with open("README.md") as f:
 packages = ["lru"]
 
 setup(
-    name="lru.py",
+    name="lru-od",
     author="XiehCanCode",
-    url="https://github.com/XiehCanCode/lru.py",
+    url="https://github.com/XiehCanCode/lru-od",
     version=version,
     packages=packages,
     license="MIT",

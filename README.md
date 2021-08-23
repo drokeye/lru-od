@@ -1,4 +1,4 @@
-# lru.py
+# lru-od
 Python implementation of LRU-Cache using `OrderedDict`
 
 ## Installing
@@ -7,16 +7,16 @@ Python implementation of LRU-Cache using `OrderedDict`
 To install the stable version of the library:
 ```sh
 # on linux/macOS
-python3 -m pip install lru.py
+python3 -m pip install lru-od
 
 # windows
-py -3 -m pip install lru.py
+py -3 -m pip install lru-od
 ```
 
 To install the development version of the library:
 ```sh
-$ git clone https://github.com/XiehCanCode/lru.py
-$ cd lru.py
+$ git clone https://github.com/XiehCanCode/lru-od
+$ cd lru-od
 $ python3 -m pip install -U .
 ```
 
